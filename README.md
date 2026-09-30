@@ -1,0 +1,2 @@
+# premium-dobby-loom-001-dobby-loom-operation-productio
+Tired of manually tracking every dobby loom shift and still missing production bottlenecks? The Dobby Loom Operation Production Dashboard turns your Notion into a real-time command center, so you can spot issues before they stop your looms.  This template eliminates the chaos of scattered spreadsheets and sticky notes by centralizing all loom opera
